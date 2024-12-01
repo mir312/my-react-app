@@ -11,6 +11,9 @@ import img5 from '../../img/img5.jpg'
         <><section className='Main'>
 
          <div className='container'>
+
+         <h1 className='sec_main'>Популярные категории</h1>
+
          <div className='cards flex'>
 
         <div className='card'>
